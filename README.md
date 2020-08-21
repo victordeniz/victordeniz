@@ -1,6 +1,4 @@
-### Hi there 👋 Víctor here
-
-Here are some ideas to get you started:
+### Hi there 👋 Víctor here :smiley:
 
 - 🔭 I’m currently working for (Moodle HQ)[https://moodle.com/].
 - 🌱 I’m currently learning CI (Coursera) and Javascript (Wes Bos).
